@@ -1,0 +1,7 @@
+<resources>
+    <string name="NombreApp">PeliculApp</string>
+    <string name="NombrePelicula">Nombre de la Película</string>
+    <string name="Director">Nombre del Director</string>
+    <string name="mnu_mayuscula">Mayuscula</string>
+    <string name="mnu_listado">Listado</string>
+</resources>
